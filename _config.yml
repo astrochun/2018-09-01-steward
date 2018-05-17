@@ -3,10 +3,10 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "lc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Introduction to Python for New Astronomers"
 
 # Contact email address.
 email: lessons@software-carpentry.org
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: astrochun/2018-09-01-steward
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -33,7 +33,7 @@ template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
 workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_site: "https://astrochun.github.io/2018-09-01-steward/"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 
